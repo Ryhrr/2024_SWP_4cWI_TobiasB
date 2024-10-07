@@ -19,8 +19,8 @@ public class NewsAgency {
     public void registerNewsChannel(NewsChannel newsChannel) {
 
 
-
     }
+
     public void broadcastMessage(String message) {
 
 
